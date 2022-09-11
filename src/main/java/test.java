@@ -8,5 +8,6 @@ public class test {
         System.out.println("testGi5 hot-fix1");
         System.out.println("master test");
         System.out.println("testGi6 update");
+        System.out.println("修改内容后push到远程仓库");
     }
 }

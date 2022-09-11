@@ -7,5 +7,6 @@ public class test {
         System.out.println("testGi4");
         System.out.println("testGi5 hot-fix1");
         System.out.println("master test");
+        System.out.println("testGi6 update");
     }
 }
